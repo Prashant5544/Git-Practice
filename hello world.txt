@@ -1,0 +1,6 @@
+public class Hello{
+public static void main (String args[]){
+
+Str a="hello world";
+system.out.println(a);
+}}
